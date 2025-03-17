@@ -7,5 +7,5 @@ USE CHATGPT FOR PROMPT: https://chatgpt.com/
 
 AND BOLT.NEW FOR WEBISTE: https://bolt.new/
 
-RESULT OF ABOVE TASK:-
+RESULT OF ABOVE TASK:- 
 AI-POWERED WEBSITE GENRATED LINK: https://aigymtech.netlify.app/
